@@ -1,0 +1,23 @@
+[
+    {
+        "from": "USD",
+        "to": "EUR",
+        "rate": "0.88"
+    },
+    {
+        "from": "EUR",
+        "to": "BSS",
+        "rate": "3726.04"
+    },
+    {
+        "from": "EUR",
+        "to": "ARS",
+        "rate": "46.34"
+    },
+    {
+        "from": "USD",
+        "to": "COP",
+        "rate": "3083.05"
+    }
+ ]
+ 

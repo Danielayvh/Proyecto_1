@@ -1,0 +1,22 @@
+[
+   {
+       "codigo": "USD",
+       "moneda": "Dólar"
+   },
+   {
+       "codigo": "EUR",
+       "moneda": "Euro"
+   },
+   {
+       "codigo": "BSS",
+       "moneda": "Bolívar Soberano"
+   },
+   {
+       "codigo": "ARS",
+       "moneda": "Peso Argentino"
+   },
+   {
+       "codigo": "COP",
+       "moneda": "Peso Colombiano"
+   }
+]
